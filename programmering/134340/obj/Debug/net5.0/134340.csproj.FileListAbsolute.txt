@@ -1,0 +1,16 @@
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.exe
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.deps.json
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.runtimeconfig.json
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.runtimeconfig.dev.json
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.dll
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\ref\134340.dll
+C:\Users\adal04001\Desktop\programmering\134340\bin\Debug\net5.0\134340.pdb
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.csproj.AssemblyReference.cache
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.AssemblyInfoInputs.cache
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.AssemblyInfo.cs
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.csproj.CoreCompileInputs.cache
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.dll
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\ref\134340.dll
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.pdb
+C:\Users\adal04001\Desktop\programmering\134340\obj\Debug\net5.0\134340.genruntimeconfig.cache
