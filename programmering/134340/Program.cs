@@ -39,7 +39,7 @@ namespace _134340
                
                  gissningar++; 
             }while (!vinst);
-            Console.WriteLine("Det tog dig " + gissningar++ + " försök");
+            Console.WriteLine("Det tog dig " + gissningar + " försök");
             
         }
         
